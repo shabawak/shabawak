@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **Java, Java Fx, VB.Net, C++**
 
-- 📫 How to reach me **shabawak@gmail.com**
+- 📫 How to reach me **kwawshadrack00@gmail.com | shabawak@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
