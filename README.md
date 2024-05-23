@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Shadrack Kwaw</h1>
 <h3 align="center">A passionate desktop and mobile app developer</h3>
 
-- 🔭 I’m currently working on **Info soft | Student Information System**
+- 🔭 I’m currently working on **Employee Information System using Java Springboot as back-end and Angular as front-end**
 
-- 🌱 I’m currently learning **TCP/ IP Socket Programming in Java**
+- 🌱 I’m currently learning **Java Springboot & Angular**
 
-- 💬 Ask me about **Java, Java Fx, VB.Net, C++**
+- 💬 Ask me about **HTML, CSS, Java, Database, Java Fx, VB.Net, C++, Springboot, Angular**
 
-- 📫 How to reach me **kwawshadrack00@gmail.com | shabawak@gmail.com**
+- 📫 How to reach me **<a href="https://linkedin.com/in/shadrack-kwaw-23a65814a/>"**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
