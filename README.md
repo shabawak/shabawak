@@ -3,11 +3,10 @@
 
 - 🔭 I’m currently working on **Employee Information System using Java Springboot as back-end and Angular as front-end**
 
-- 🌱 I’m currently learning **Java Springboot & Angular**
+- 🌱 I’m currently building  **RAG application and AI agent**
 
-- 💬 Ask me about **HTML, CSS, Java, Database, Java Fx, VB.Net, C++, Springboot, Angular**
+- 💬 Ask me about **HTML, CSS, Java, Database, Java Fx, VB.Net, C++, Springboot, Angular, LLM, RAG**
 
-- 📫 How to reach me **<a href="https://linkedin.com/in/shadrack-kwaw-23a65814a/>"**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
